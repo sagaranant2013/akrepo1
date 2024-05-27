@@ -1,0 +1,9 @@
+{
+	"name": "aksinghdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b780dd71-d591-4430-84f0-e95523e60be8",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
